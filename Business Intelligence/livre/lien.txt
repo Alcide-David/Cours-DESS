@@ -1,0 +1,11 @@
+Modélisation d'un datawarehouse; 7 minutes 
+https://www.youtube.com/watch?v=7vPIo1QI0Ek
+
+ Informatique décisionnelle (BI) : Analyse multidimensionnelle et OLAP; 27 minutes
+https://www.youtube.com/watch?v=XTBzRt6kH2M
+
+Les BASES De Power BI Pour Débutant 
+https://www.youtube.com/watch?v=ZzPH8bVKQuI
+
+Formation à la modélisation dimensionnelle – Entrepôt de données – Modélisation Dimensionnelle; 30 minutes
+https://www.youtube.com/watch?v=-lN7v38M7Y4
